@@ -8,8 +8,8 @@ A developer with a passion for open-source software. I love a challenge and enjo
 
 ## Get in touch
 
-- 🐦 twitter.com/JorgenEvens
-- 🔗 jorgen.evens.eu
+- 🐦 [twitter.com/JorgenEvens](https://twitter.com/JorgenEvens)
+- 🔗 [jorgen.evens.eu](https://jorgen.evens.eu)
 - ✉️ jorgen@evens.eu
 
 ## Interests
