@@ -22,6 +22,6 @@ A developer with a passion for open-source software. I love a challenge and enjo
 ## Work
 
 - Full Stack Developer [@Ambassify](https://github.com/ambassify)<br />
-  Ambassify is hiring, come [join us](https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38?utm_medium=profile-readme&utm_source=github&utm_campaign=jorgenevens)
+  Ambassify is hiring, come [join us](https://www.ambassify.com/company/vacancies?utm_source=github&utm_medium=social&utm_campaign=profile&utm_content=jorgenevens)
 - Freelance software consultant
 - Maintainer of [react-avatar](https://github.com/sitebase/react-avatar)
